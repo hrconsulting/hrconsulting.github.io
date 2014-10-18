@@ -1,0 +1,125 @@
+#imgtd {
+    padding: 0;
+    border: none;
+    background: white;
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+
+body {
+    padding-bottom: 2px;
+    margin: 10px;
+}
+
+
+#header_img {
+    border: none;    
+    vertical-align: top;
+}
+
+#toplink {
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tlayout {
+    width: 778px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-top: 0.5em;
+}
+
+#foot-td {
+    border: none;
+    padding:0;
+    padding-top: 4em;
+}
+
+div#footer  {
+    border: none;
+    padding: 0;
+    margin-top: 0.5em;
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#footimg {
+    border: none;    
+    vertical-align: top;
+}
+
+
+#main-tr {
+    border: 1px dotted;
+}
+
+#layout-menu {
+    background: #f4f4ff;
+    border: 0;
+    padding-right: 10px;
+    border-right: 1px #305080 dotted;
+}
+
+
+#layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
+    color: #022bad;
+}
+
+#layout-menu a.current:link, #layout-menu a.current:visited {
+    color: #022bad;    
+}
+
+div.menu-category {
+    color: #00002d;
+}
+
+h1, h2, h3, a {
+    color: #022b6d;
+}
+
+h1 {
+    padding-bottom: 0.2em;
+    margin-bottom: 1.5em;
+    border-bottom: 3px double gray;
+}
+
+#layout-content h1:first-child{
+    margin-top: 0em;
+}
+
+/*DL, DT, DD TAGS LIST DATA*/
+dl {
+    margin: 0;
+    margin-bottom: 2em;
+    clear:both;
+}
+
+dt {
+    margin: 0;
+    font-weight:bold;
+    margin-left:10px;
+    width: 10em;
+    display:block;
+    padding:0;
+    margin-top: .5em;
+}
+
+dd {
+    margin:0;
+    padding:0;
+    margin-left:11em;
+    margin-top:-1.25em;
+    width: 400px;
+    color: #000000;
+}
+
+dd p {
+    padding:0;
+    margin:0;
+}
