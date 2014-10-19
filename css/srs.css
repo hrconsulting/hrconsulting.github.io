@@ -30,14 +30,15 @@ h1 {
 }
 
 #fwtitle div#toptitle h1{
+	font-size: 150%;
 	font-family: Georgia, serif;
-	margin-top: -60px;
+	margin-top: -2.2em;
 	margin-left: 100px;
 	color: #D5D8E5;
 }
 #fwtitle div#toptitle h2{
 	font-size: 100%;
-	margin-top: -8px;
+	margin-top: -0.5em;
 	padding-left: 100px;
 	border-bottom: none;
 	color: #D5D8E5;
