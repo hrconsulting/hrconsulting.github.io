@@ -1,6 +1,7 @@
 # jemdoc: title{For Clients - Beijing SRS Human-Resource Consulting}
-# jemdoc: nodefaultcss, nofooter
+# jemdoc: nodefaultcss, nofooter, fwtitle
 # jemdoc: menu{menuen}{clientsen.html}
+# jemdoc: addcss{../css/style.css}
 # jemdoc: addcss{../css/jemdoc.css}
 # jemdoc: addcss{../css/srs.css}
 

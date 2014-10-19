@@ -1,14 +1,21 @@
-# jemdoc: title{About Us - Beijing SRS Human-Resource Consulting}
-# jemdoc: nodefaultcss, nofooter
+# jemdoc: nodefaultcss, nofooter, fwtitle
 # jemdoc: menu{menuen}{abouten.html}
+# jemdoc: addcss{../css/style.css}
 # jemdoc: addcss{../css/jemdoc.css}
 # jemdoc: addcss{../css/srs.css}
+# jemdoc: title{About Us - Beijing SRS Human-Resource Consulting}
 
-= About Beijing Human-Resource Consulting
+= About Us
 
 djkfjakl;jdfkl;aj;ddjkfjakl;jdfkl;aj;ddjkfjakl;jdfkl;aj;ddjkfjakl;jdfkl;aj;ddjkfjakl;jdfkl;aj;d
 
 == Where to next?
+
+Read about then refer to the once you're underway.
+You could also download sample jemdoc code, like the [index.jemdoc index page]
+for this website.
+
+=== Where to next?
 
 Read about then refer to the once you're underway.
 You could also download sample jemdoc code, like the [index.jemdoc index page]
