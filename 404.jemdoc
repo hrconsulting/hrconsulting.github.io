@@ -1,8 +1,8 @@
 # jemdoc: nodefaultcss, nofooter, fwtitle
 # jemdoc: menu{menuen}{}
-# jemdoc: addcss{css/style.css}
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: addcss{css/srs.css}
+# jemdoc: addcss{www.human-resource.cn/css/style.css}
+# jemdoc: addcss{www.human-resource.cn/css/jemdoc.css}
+# jemdoc: addcss{www.human-resource.cn/css/srs.css}
 # jemdoc: title{Page Not Found - Beijing SRS Human-Resource Consulting}
 
 = Page Not Found
