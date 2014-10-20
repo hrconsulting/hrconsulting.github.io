@@ -1,5 +1,5 @@
 # jemdoc: nodefaultcss, nofooter, fwtitle
-# jemdoc: menu{menuen404}{}
+# jemdoc: menu{menuen}{}
 # jemdoc: addcss{css/style.css}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/srs.css}

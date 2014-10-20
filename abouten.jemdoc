@@ -1,8 +1,8 @@
 # jemdoc: nodefaultcss, nofooter, fwtitle
 # jemdoc: menu{menuen}{abouten.html}
-# jemdoc: addcss{../css/style.css}
-# jemdoc: addcss{../css/jemdoc.css}
-# jemdoc: addcss{../css/srs.css}
+# jemdoc: addcss{css/style.css}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/srs.css}
 # jemdoc: title{About Us - Beijing SRS Human-Resource Consulting}
 
 = About Us
