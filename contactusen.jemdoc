@@ -1,9 +1,9 @@
 # jemdoc: title{Contact Us - Beijing SRS Human-Resource Consulting}
 # jemdoc: nodefaultcss, nofooter, fwtitle
-# jemdoc: menu{menuen}{contactusen.html}
-# jemdoc: addcss{css/style.css}
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: addcss{css/srs.css}
+# jemdoc: menu{menuen}{/contactusen.html}
+# jemdoc: addcss{/css/style.css}
+# jemdoc: addcss{/css/jemdoc.css}
+# jemdoc: addcss{/css/srs.css}
 
 = Contact Us
 

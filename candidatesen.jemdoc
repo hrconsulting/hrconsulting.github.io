@@ -1,9 +1,9 @@
 # jemdoc: title{For Candidates - Beijing SRS Human-Resource Consulting}
 # jemdoc: nodefaultcss, nofooter, fwtitle
-# jemdoc: menu{menuen}{candidatesen.html}
-# jemdoc: addcss{css/style.css}
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: addcss{css/srs.css}
+# jemdoc: menu{menuen}{/candidatesen.html}
+# jemdoc: addcss{/css/style.css}
+# jemdoc: addcss{/css/jemdoc.css}
+# jemdoc: addcss{/css/srs.css}
 
 = For Our Candidates
 
